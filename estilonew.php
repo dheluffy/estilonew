@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>    
 <teamtalk>
     <host>
-    <name>SIBARUGA (Auth Facebook)</name>
-    <address>tt5.nasional.online</address>
-    <tcpport>10447</tcpport>
-    <udpport>10447</udpport>
+    <name>ESTILO-V2</name>
+    <address>103.157.116.41</address>
+    <tcpport>11111</tcpport>
+    <udpport>11111</udpport>
     <encrypted>true</encrypted>
     <auth>
         <username>facebook</username>
