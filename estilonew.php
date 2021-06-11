@@ -7,7 +7,7 @@
     <udpport>11111</udpport>
     <encrypted>true</encrypted>
     <auth>
-        <username>facebook</username>
+        <username></username>
         <password></password>
         </auth>
         <join>
@@ -16,16 +16,16 @@
         </join>
         </host>
         <host>
-            <name>LOKAL ENREKANG</name>
-            <address>cc210ceddbf2.sn.mynetname.net</address>
-            <tcpport>10555</tcpport>
-            <udpport>10555</udpport>
+            <name>ESTILO-NEW</name>
+            <address>103.140.55.77</address>
+            <tcpport>22222</tcpport>
+            <udpport>22222</udpport>
             <encrypted>true</encrypted>
             <auth>
                 <username>user</username>
-                <password>lokalenrekang</password>
+                <password></password>
                 </auth>
-                <join><channel>/LOKAL ENREKANG</channel>
+                <join><channel>/</channel>
                 <password></password></join>
                 </host>
                 <host>
